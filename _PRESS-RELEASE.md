@@ -18,27 +18,40 @@ Once the project moves into development, the press release can be used as a touc
  
 ## Heading ##
   > Name the product in a way the reader (i.e. your target customers) will understand.
+  DOTA 2 Watch
 
 ## Sub-Heading ##
   > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
+  This product is for DOTA 2 players/fans who want to visualize match data over time
 
 ## Summary ##
   > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
+  Dota 2 Watch will allow you to pick a player with a public match history and see various statistics regarding the player
+  over that player's available history. Clients will be able to see win/loss records, average gold/kills/assists/last hits/denies,
+  favorite hero used and items! All data will be visualized and presented in an easily digestable format.
 
 ## Problem ##
   > Describe the problem your product solves.
+  One way to see prior data of players is to use Dotabuff, but the information for each player is scattered across multiple pages
+  and hard to interpret.
 
 ## Solution ##
   > Describe how your product elegantly solves the problem.
+  Dota 2 Watch solves the problem by condensing the time-series data into the most valued pieces and representing that data in a
+  way that is easy to understand.
 
 ## Quote from You ##
   > A quote from a spokesperson in your company.
+  Dota 2 Watch is easy to use and fun! Woo!
 
 ## How to Get Started ##
   > Describe how easy it is to get started.
+  Point and click!
 
 ## Customer Quote ##
   > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
+  'OMG Dota 2 Watch helped me keep track of my stats easily!''
 
 ## Closing and Call to Action ##
   > Wrap it up and give pointers where the reader should go next.
+  Readers should start checking dota2watch.azurewebsites.net for updates!
